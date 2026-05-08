@@ -1,0 +1,31 @@
+{
+    "dashboard":{
+      "purchaseAmount" : 910,
+      "website" : "https://example.com"
+
+      
+    },
+  "course" : [
+    {
+    "title" : "selenium",
+    "cost" : 50,
+      "copies" : 6
+    },
+
+    {
+    "title" : "playwright",
+    "cost" : 40,
+      "copies" : 4
+    },
+
+    {
+    "title" : "RPA",
+    "cost" : 45,
+      "copies" : 10
+    }
+    
+
+    
+  ]
+    
+}

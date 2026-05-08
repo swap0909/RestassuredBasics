@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-08T22:12:38 IST" name="Suite" finished-at="2026-05-08T22:12:44 IST" duration-ms="6476">
+    <groups>
+    </groups>
+    <test started-at="2026-05-08T22:12:38 IST" name="Test" finished-at="2026-05-08T22:12:44 IST" duration-ms="6476">
+      <class name="ecommerce.AddProductRequest">
+        <test-method signature="addProductToSite()[pri:0, instance:ecommerce.AddProductRequest@35e2d654]" started-at="2026-05-08T22:12:40 IST" name="addProductToSite" finished-at="2026-05-08T22:12:44 IST" duration-ms="3214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductToSite -->
+      </class> <!-- ecommerce.AddProductRequest -->
+      <class name="ecommerce.DeleteProduct">
+        <test-method signature="deleteProduct()[pri:0, instance:ecommerce.DeleteProduct@55183b20]" started-at="2026-05-08T22:12:44 IST" name="deleteProduct" finished-at="2026-05-08T22:12:44 IST" duration-ms="322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteProduct -->
+      </class> <!-- ecommerce.DeleteProduct -->
+      <class name="ecommerce.LoginToApp">
+        <test-method signature="loginToApplication()[pri:0, instance:ecommerce.LoginToApp@59662a0b]" started-at="2026-05-08T22:12:38 IST" name="loginToApplication" finished-at="2026-05-08T22:12:40 IST" duration-ms="2460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApplication -->
+      </class> <!-- ecommerce.LoginToApp -->
+      <class name="ecommerce.PlaceOrderRequest">
+        <test-method signature="placeOrder()[pri:0, instance:ecommerce.PlaceOrderRequest@1bd4fdd]" started-at="2026-05-08T22:12:44 IST" name="placeOrder" finished-at="2026-05-08T22:12:44 IST" duration-ms="419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrder -->
+      </class> <!-- ecommerce.PlaceOrderRequest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
